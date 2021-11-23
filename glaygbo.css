@@ -1,0 +1,51 @@
+*{
+    font-family: Arial;
+    padding: 0;
+    margin: 0;
+}
+/* utility */
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* section one */
+.article img{
+    
+   
+}
+.article h1{
+    margin-top: 7px;
+}
+.article p{
+    margin-top: 5px;
+}
+
+/* section two */
+.main{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+}
+.main img{
+    width: 135px;
+    height: 190px;
+    float: left;
+    padding: 7px;
+    
+}
+.main p{
+    padding: 5px;
+    font-size: 16px;
+}
+
+.image-map{
+    margin: 0;
+    padding: 0;
+    padding-top: 25px;
+}
+.image-map img{
+    margin-top: 7px;
+    
+}
